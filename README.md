@@ -32,7 +32,8 @@ or:
 ```
 
 The following example uses the async/await syntax new in Python 3.5.
-For more examples, see https://github.com/taibende/pyphilote/examples:
+For more examples, see
+https://github.com/taibende/pyphilote/tree/master/examples
 
 ```python
     from pyphilote.network import Philote
